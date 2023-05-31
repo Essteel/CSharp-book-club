@@ -1,0 +1,15 @@
+/Users/siansteel/code-like-a-girl/lesson-7/activity/bin/Debug/net6.0/activity
+/Users/siansteel/code-like-a-girl/lesson-7/activity/bin/Debug/net6.0/activity.deps.json
+/Users/siansteel/code-like-a-girl/lesson-7/activity/bin/Debug/net6.0/activity.runtimeconfig.json
+/Users/siansteel/code-like-a-girl/lesson-7/activity/bin/Debug/net6.0/activity.dll
+/Users/siansteel/code-like-a-girl/lesson-7/activity/bin/Debug/net6.0/ref/activity.dll
+/Users/siansteel/code-like-a-girl/lesson-7/activity/bin/Debug/net6.0/activity.pdb
+/Users/siansteel/code-like-a-girl/lesson-7/activity/obj/Debug/net6.0/activity.csproj.AssemblyReference.cache
+/Users/siansteel/code-like-a-girl/lesson-7/activity/obj/Debug/net6.0/activity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siansteel/code-like-a-girl/lesson-7/activity/obj/Debug/net6.0/activity.AssemblyInfoInputs.cache
+/Users/siansteel/code-like-a-girl/lesson-7/activity/obj/Debug/net6.0/activity.AssemblyInfo.cs
+/Users/siansteel/code-like-a-girl/lesson-7/activity/obj/Debug/net6.0/activity.csproj.CoreCompileInputs.cache
+/Users/siansteel/code-like-a-girl/lesson-7/activity/obj/Debug/net6.0/activity.dll
+/Users/siansteel/code-like-a-girl/lesson-7/activity/obj/Debug/net6.0/ref/activity.dll
+/Users/siansteel/code-like-a-girl/lesson-7/activity/obj/Debug/net6.0/activity.pdb
+/Users/siansteel/code-like-a-girl/lesson-7/activity/obj/Debug/net6.0/activity.genruntimeconfig.cache
